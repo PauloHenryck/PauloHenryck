@@ -16,6 +16,9 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   ##
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=paulohenryck&theme=github)](https://github.com/paulohenryck/github-readme-activity-graph)
+
 
 <div> 
     <a href = "mailto:contatopaulohenryck123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 

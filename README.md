@@ -20,12 +20,10 @@
  
 </div>
 
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
   
-  <div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/paulohenryck/count.svg" />  
-</p>
+<p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/paulohenryck/count.svg" /></p> 
+      <br></div>

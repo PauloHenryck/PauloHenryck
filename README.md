@@ -27,5 +27,5 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/adityagundecha/count.svg" />  
+  <img src="https://profile-counter.glitch.me/paulohenryck/count.svg" />  
 </p>

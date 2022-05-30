@@ -9,12 +9,7 @@
 </div>
 
 <p align="center">
-  
-  <a href="https://github.com/paulohenryck/github-readme-activity-graph#gh-light-mode-only">
-   <img src="https://activity-graph.herokuapp.com/graph?username=paulohenryck&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
-  </a>
-
-  <a href="https://github.com/paulohenryck/github-readme-activity-graph#gh-dark-mode-only">
+  <a href="https://github.com/paulohenryck">
    <img src="https://activity-graph.herokuapp.com/graph?username=paulohenryck&theme=github&area=true&hide_border=true#gh-dark-mode-only" width="100%">
   </a>
 </p>

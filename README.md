@@ -35,3 +35,8 @@
 <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/paulohenryck/count.svg" /></p> 
       <br></div>
+ ###    
+ 
+<img href="https://raw.githubusercontent.com/PauloHenryck/PauloHenryck/blob/output/snake.svg" alt="Snake animation" />
+
+###

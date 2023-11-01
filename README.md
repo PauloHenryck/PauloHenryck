@@ -2,8 +2,9 @@
 
 ###
 
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenryck&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&locale=pt-br" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&locale=pt-br&hide_border=true&username=paulohenryck" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&username=paulohenryck" height="150" alt="languages graph"  />
 </div>
 
 ###

@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E34C26&height=170&section=header&text=Paulo%20Henryck&fontSize=60&animation=fadeIn&fontAlignY=25&desc=Developer%20Jr&descAlignY=45&descAlign=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E34C26&height=170&section=header&text=Paulo%20Henryck&fontSize=60&animation=fadeIn&fontAlignY=25&desc=Developer&descAlignY=45&descAlign=50">
 
 ###
 

@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenryck&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&locale=pt-br" />
+</div>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />

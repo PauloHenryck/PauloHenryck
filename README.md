@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E34C26&height=170&section=header&text=Paulo%20Henryck&fontSize=60&animation=fadeIn&fontAlignY=25&desc=Full%20Stack%20Developer%20Jr&descAlignY=45&descAlign=50">
-
-<img align="right" height="200" src="https://c.tenor.com/h0y8IkPv6UoAAAAd/fall-guy-computer.gif"  />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E34C26&height=170&section=header&text=Paulo%20Henryck&fontSize=60&animation=fadeIn&fontAlignY=25&desc=Developer%20Jr&descAlignY=45&descAlign=50">
 
 ###
 
